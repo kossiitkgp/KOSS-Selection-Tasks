@@ -5,6 +5,10 @@ Object Oriented Programming is a useful paradigm in software engineering. Differ
 You have to make a bank management class which has different classes for different purposes.
 
 ## Materials
+* Nothing as such :P
+
+## What you need to do
+
 * You have to create a class named `Account` which has the following details
 	* Attributes
 		* Account Number
