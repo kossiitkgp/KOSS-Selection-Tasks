@@ -35,4 +35,4 @@ A submit Button in the end, which on clicking should validate the form and show 
 You can use what ever the frontend web technologies you are aware of, it can be a stack consist of HTML, CSS, Vanilla JS or Jquery or Typescript, or any frontend framework like React JS, Angular, Vue, or Svelte.js anything you are comfortable with.
 
 # Learning from the task
-You should be able to create a form with good UI and good UX, learn how to handle errorenous respones(We get a lot). You will also get a basic understanding of DOM. Event you are not able to complete all the parts of the task, we would like to see your approach in working on different aspects like how you handle errors, how do you show it to the user and the rest.
+You should be able to create a form with good UI and good UX, learn how to handle errorenous respones(We get a lot). You will also get a basic understanding of DOM. Even you are not able to complete all the parts of the task, we would like to see your approach in working on different aspects like how you handle errors, how do you show it to the user and the rest.
