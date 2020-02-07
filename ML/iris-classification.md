@@ -5,7 +5,7 @@
 Classification is one of the fundamental machine learning algorithms and is applied in various fields. Depending on various features, datapoints can be classified into different classes, for example, measuring a triangle's angles, we can classify it as acute-angled, obtuse-angled or right angled. In this task, however, you will be dealing with data that is slightly more interesting. You will be classifying the type of flower based on its measured features.
 
 ## Materials
-* The dataset of iris flowers can be found [here](https://www.kaggle.com/uciml/iris)
+* The dataset of iris flowers can be found [here](https://archive.ics.uci.edu/ml/datasets/Iris)
 
 ## What you need to do
 
