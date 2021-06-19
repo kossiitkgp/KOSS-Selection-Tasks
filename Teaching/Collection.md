@@ -1,4 +1,4 @@
-# Container library and Context Manager in Python
+# Collection library and Context Manager in Python
 
 ## Background
 
