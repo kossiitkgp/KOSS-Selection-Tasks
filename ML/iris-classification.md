@@ -14,6 +14,7 @@ Classification is one of the fundamental machine learning algorithms and is appl
 * You need to document your approach in a `.md` file explaining your thought process and how / why you choose a certain tool while solving this problem.
 * A GitHub repository which contains your code(Jupyter notebook OR python file) along with a `.md` file containing your thought process would be the end product that we are expecting. 
 * _Bonus task 1_ - Use seaborn to visualize the data
+* _Bonus task 2_ - Create a REST API to interact with the mode. You should be able to pass an image and get the class in response
 
 ## Tech-Stack
 * You can use Python/R and any library of your choice.
