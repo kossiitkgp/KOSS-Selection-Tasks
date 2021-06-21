@@ -21,6 +21,10 @@ kernel.  What this proof is is up to you, I'm sure you can come up with
 something.  Also be sure to send the kernel module you wrote, along with
 the Makefile you created to build the module.
 
+We know that this task involves learning about a lot of concepts, so we do not except you to become masters in just a couple of days. We want to see what you've explored, and the effort you've put into the presentation
+
+Please create a presentation, either using PPT, or using a tool such as Reveal.JS. The interviewee needs to keep in mind that the crowd he will be presenting to, will have mixed people of different knowledge levels, so it is advised that to keep the content balanced for all. Keep it short, to less than 20 slides or so, and you could include images, screenshots from commands run, and short snippets of code, to keep the audience interested
+
 ## Relevant Material
 - https://linux.die.net/lkmpg/x40.html
 - https://wiki.archlinux.org/title/Kernel_module
