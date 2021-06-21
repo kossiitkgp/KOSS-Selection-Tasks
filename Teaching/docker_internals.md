@@ -8,7 +8,8 @@ We want you to give us a brief overview of how Docker enables this isolation, by
 
 ## What you need to do
 We want you to cover the following topics:
-- What cgroups and namespaces are, and how you can build containers using them
+- What in the world is a container even
+- What cgroups and namespaces are, and how you can build _containers_ using them
 - The Docker ecosystem - Docker today consists of multiple tools each doing their part: containerd, runc and many other tools that are part of the larger cloud native ecosystem. We would like to get a high level understanding of what they do, and what part they play
 - (Optional) Show us some examples, using scripts, or tools of isolation achieved on a machine running Linux. You could show us how cgroups look like, how you can list namespaces and so on
 
