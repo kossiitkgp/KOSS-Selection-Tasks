@@ -23,3 +23,4 @@ Please create a presentation, either using PPT, or using a tool such as Reveal.J
 - https://platform.sh/blog/2020/the-container-is-a-lie/
 - https://jvns.ca/blog/2016/10/10/what-even-is-a-container/
 - https://indradhanush.github.io/blog/life-of-a-container/
+- https://www.youtube.com/watch?v=GwXLNAcHk-k
