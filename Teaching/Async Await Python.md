@@ -81,7 +81,9 @@ For example, in JavaScript we use concepts of Promise, and in Python, it provide
     ```  
     </details>
 
-    Task for the above part - Now replace the `sleep_coro` with a function that would download a page from `https://www.google.com/search?q={name_arr}` where `name_arr = ['Yash', 'KOSS', 'Your Name']` 
+    Task for the above part - Now replace the `sleep_coro` with a function that would download a page from `https://reqres.in/api/users?page{el}`(this has been changed) where `el is an element in arr = [1, 2, 3]` *
+    
+   ` * -> Changed from - https://www.google.com/search?q={name_arr} `
 
     Use this resource for more details for downloading a page - https://docs.aiohttp.org/en/stable/#client-example
 
