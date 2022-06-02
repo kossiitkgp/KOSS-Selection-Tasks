@@ -26,4 +26,4 @@ Please create a presentation, either using PPT, or using a tool such as Reveal.J
 - https://bbs.archlinux.org/viewtopic.php?id=221899
 - https://www.youtube.com/watch?v=-UvZ4BEAXFU
 
-#### In case you have any questions, feel free to reach out to [Mukul Mehta](mailto:mukul.csiitkgp@gmail.com)
+#### In case you have any questions, feel free to reach out to [Soham Sen](mailto:hello@sohamsen.me) or [Mohammad Shehar Yaar Tausif](mailto:sheharyaar48@gmail.com).
