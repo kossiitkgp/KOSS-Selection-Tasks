@@ -28,3 +28,5 @@ Please create a presentation, either using PPT or preferably a tool such as [Rev
 3. https://nixos.org/manual/nix/stable/
 4. https://notes.yukiisbo.red/posts/2021/07/Spice_up_with_Nix_Scripts.html, https://notes.yukiisbo.red/posts/2021/08/Spice_up_with_Nix_Shells.html, https://notes.yukiisbo.red/posts/2021/09/Spice_up_with_Nix_Traditional_Software_Deployment.html, https://notes.yukiisbo.red/posts/2022/01/Spice_up_with_Nix_Functional_Software_Deployment.html
 5. https://nixos.org/manual/nixpkgs/stable/ and https://nixos.org/manual/nixos/stable/
+
+#### In case you have any questions, feel free to reach out to [Soham Sen](mailto:hello@sohamsen.me)
