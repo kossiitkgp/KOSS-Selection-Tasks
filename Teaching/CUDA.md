@@ -19,15 +19,16 @@ loop and add them sequentially(C[i]=A[i]+B[i]), but using the CUDA C library you
 
 The interviewee needs to make a presentation (keep the presentation simple, a simple PowerPoint presentation is good enough). The interviewee needs to keep in mind that the crowd he will be presenting to, will have mixed people of different knowledge levels, so it is advised that to keep the content balanced for all, explaing the basics along with thorough conceptual insights of the topics mentioned. Your presentation should mainly consist of the following parts.
 
-- Introduction to types of Parallel Computing(bit-level,instruction-level,data and task parallelism).Basic explaination along with examples (**Not the code** just conceptual examples)
-- Difference between GPU and CPU(hardware level).
-- Install the CUDA Devlopment Kit from this [link](https://developer.nvidia.com/cuda-downloads).
-- Introduction to CUDA Parallel Programming Paradigm. Explaining the following topics.
-    - Compute Kernels
-    - Thread Heirarchy
-    - Memory Heirarchy
-    - functions like `cudaMalloc`, `cudaMemcpy`, `cudaFree` `__syncthreads` and `cudaDeviceSynchronize`
-- Task to be demonstrated using CUDA Programming
+> - Introduction to types of Parallel Computing(bit-level,instruction-level,data and task parallelism).Basic explaination along with examples (**Not the code** just conceptual examples)
+> - Difference between GPU and CPU(hardware level).
+> - Install the CUDA Devlopment Kit from this [link](https://developer.nvidia.com/cuda-downloads).
+> - Introduction to CUDA Parallel Programming Paradigm. Explaining the following topics.
+>    - Compute Kernels
+>    - Thread Heirarchy
+>    - Memory Heirarchy
+>    - functions like `cudaMalloc`, `cudaMemcpy`, `cudaFree` `__syncthreads` and `cudaDeviceSynchronize`
+> - Task to be demonstrated using CUDA Programming.
+
 Pease remember to keep the presentation short and concise. Long presentation bores the audience and you will also get tired in presenting. It has also been observed that images, quotes, interactive programming sessions tend to keep the audience interested in the content. **(Recommended: Keep he presentation with 20 slides). Interview should be also prepared for questions regarding the topics being presented by him/her.**
 
 ### Task Details
