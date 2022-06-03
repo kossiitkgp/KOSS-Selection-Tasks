@@ -7,7 +7,7 @@
 ## What you need to do
 
 <div align="justify">
-The candidate needs to make a small presentation of around 8-10 mins (do not exceed 10min) and give the lecture in the next interview to us. The topics that are to be covered are listed below. The interviewee needs to keep in mind that the crowd he will be presenting to, will have mixed people of different knowledge levels, so it is advised that to keep the content balanced for all, touch upon both basics and advanced topics in the domains below.
+The candidate needs to make a small presentation of around 8-10 mins (do not exceed 10min) and use that presentation during the interview to explain the topics to the interviewers as they would to any general audience. The topics that are to be covered are listed below. The interviewee needs to keep in mind that the crowd he will be presenting to, will have mixed people of different knowledge levels, so it is advised that to keep the content balanced for all, touch upon both basics and advanced topics in the domains below.
 </div>
 
 - Start with a very basic description of SQL and its ACID Properties [1]
