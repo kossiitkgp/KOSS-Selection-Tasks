@@ -2,7 +2,7 @@
 
 ## Background
 
-[Race Condition](https://en.wikipedia.org/wiki/Race_condition) is a common condition in which one dat ais dependent on some other process's response. The same happens in case of database entries. This condition is highly probable to occur such as booking of two tickets for same movie seat. Hence it is very necessary to handle this condition. Deadlocks and concurrency control methods are used to handle inserts and reads in such transactions.
+[Race Condition](https://en.wikipedia.org/wiki/Race_condition) is a common condition in which one data is dependent on some other process's response. The same happens in case of database entries. This condition is highly probable to occur such as booking of two tickets for same movie seat. Hence it is very necessary to handle this condition. Deadlocks and concurrency control methods are used to handle inserts and reads in such transactions.
 
 ## What you need to do
 
