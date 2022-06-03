@@ -12,7 +12,7 @@ The Graphics Processing Unit (GPU) provides much higher instruction throughput a
 
 CUDA (or Compute Unified Device Architecture) is a parallel computing platform and application programming interface (API) that allows software to use certain types of graphics processing units (GPUs) for general purpose processing, an approach called general-purpose computing on GPUs (GPGPU). CUDA is a software layer that gives direct access to the GPU's virtual instruction set and parallel computational elements, for the execution of functions that contain parallel instructions(aka compute kernels).
 
-For Example: adding two vectors A[1 2 3 4] + B[4 3 2 1] = C[5 5 5 5], In a classic C code using CPU you would iterate through the 
+For Example: adding two vectors A{1 2 3 4} + B{4 3 2 1} = C{5 5 5 5}, In a classic C code using CPU you would iterate through the 
 loop and add them sequentially(C[i]=A[i]+B[i]), but using the CUDA C library you can devide each element of a vector into a thread(a thread of execution is the smallest sequence of programmed instructions that can be managed independently) and add the threads together at once in just one instruction cycle like- C[threadIdx.x]= A[threadIdx.x]+B[threadIdx.x]. (Where the the threadIdx corresponds to the index of the thread on GPU and data field(x) is the dimension of the vector)
 
 ## What do you need to do
