@@ -8,7 +8,7 @@ There are many ways to acheive non-bloccking I/O, but the most common way is to 
 
 ## Task
 
-Create a short presentationand teach the audience about the following:
+Create a short presentation and teach the audience about the following:
 - Different types of I/O : Blocking and Non-blocking ( Note: This is different from synchronous and asynchronous I/O)
 - Present about event driven I/O and event loop
 - Present about the use of the event loop  in nodejs (just the basic overview)
