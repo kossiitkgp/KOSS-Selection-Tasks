@@ -29,6 +29,9 @@ The interviewee needs to make a presentation (keep the presentation simple, a si
 >    - functions like `cudaMalloc`, `cudaMemcpy`, `cudaFree` `__syncthreads` and `cudaDeviceSynchronize`
 > - Task to be demonstrated using CUDA Programming.
 
+## **Note**: In case you don't have CUDA compatible device use this [google collab doc](https://colab.research.google.com/drive/1Hp6FobU5DDUeqP5cCCZiT7TiyPfGMe1V?usp=sharing) to run your CUDA code
+
+
 Pease remember to keep the presentation short and concise. Long presentation bores the audience and you will also get tired in presenting. It has also been observed that images, quotes, interactive programming sessions tend to keep the audience interested in the content. **(Recommended: Keep he presentation with 20 slides). Make presentation such that it can be presented within 8-10 mins. Interview should be also prepared for questions regarding the topics being presented by him/her.**
 
 ### Task Details
@@ -56,3 +59,4 @@ Prior knowledge of basic C [upto Multidimensional Array] and basic knowledge abo
 - This task will also help you to know in depth about execution of code at hardware level. Dont just try to complete the task by giving definitions and small code demos in ur ppt. Try to understand the difference between running a code on your CPU and running a code on your GPU by doing experiments in your code to understand the CUDA library functions properly. It will help you in the final interview too.
 
 #### For any questions, please reach out to [Aditya Ranjan Jha](mailto:adisofficial.2001@gmail.com)
+
