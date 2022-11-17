@@ -21,6 +21,7 @@ You have to create **one Pull Request** on any proper project, Hacktoberfest sty
   - This means you cannot just submit a CP-like/algorithmic solution to a project that is just a storage of different algorithms.
   - You can, however, create a pull request that changes the algorithm of an application or library to make it more efficient.
 6. It is not necessary that the pull requests be merged. Merged requests, however, are highly appreciated.
+7. **If you have created a major pull request in the past 6 months on a big project, we can consider that**. Keep in mind that this is only for big projects, and the change has to be a substantial one.
 
 ## Tech Stack
 
