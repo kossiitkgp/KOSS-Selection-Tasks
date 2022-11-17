@@ -44,4 +44,4 @@ Even if you don't know enough programming, you can work on documentation for a p
 - Finally, it's fun! We here at the Kharagpur Open Source Society love contributing to projects simply for the fun of it. We get to be a part of bigger communities, interact with famous people (such as the maintainers of big projects), and learn how to code properly.
 
 
-**Got stuck? Need help in fixing something? Reach out to [Soham Sen](mailto:contact@sohamsen.me).
+**Got stuck? Need help in fixing something? Reach out to [Soham Sen](mailto:contact@sohamsen.me).**
