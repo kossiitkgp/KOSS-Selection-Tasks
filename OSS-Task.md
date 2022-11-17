@@ -14,12 +14,12 @@ You have to create **one Pull Request** on any proper project, Hacktoberfest sty
 2. You can either work on the documentation or the codebase itself. Bear in mind, if you are working on documentation, the result should especially be a significant improvement.
 3. It has to be done on someone else's repository, not your own.
 4. The repository you are working on must atleast be somewhat famous:
-  - It can be a library or application that is not much used, as long as it is actually used by other people.
-  - Big projects are highly welcome.
-  - If you are unsure whether the repository will count towards your selections, feel free to contact us.
+   - It can be a library or application that is not much used, as long as it is actually used by other people.
+   - Big projects are highly welcome.
+   - If you are unsure whether the repository will count towards your selections, feel free to contact us.
 5. Repositories which do not serve any real life purpose (such as [TheAlgorithms](https://github.com/TheAlgorithms) are STRICTLY FORBIDDEN.
-  - This means you cannot just submit a CP-like/algorithmic solution to a project that is just a storage of different algorithms.
-  - You can, however, create a pull request that changes the algorithm of an application or library to make it more efficient.
+   - This means you cannot just submit a CP-like/algorithmic solution to a project that is just a storage of different algorithms.
+   - You can, however, create a pull request that changes the algorithm of an application or library to make it more efficient.
 6. It is not necessary that the pull requests be merged. Merged requests, however, are highly appreciated.
 7. **If you have created a major pull request in the past 6 months on a big project, we can consider that**. Keep in mind that this is only for big projects, and the change has to be a substantial one.
 
