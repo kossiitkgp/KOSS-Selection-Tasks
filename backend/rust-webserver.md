@@ -1,8 +1,14 @@
 # Writing a simple Web Server with Rust!
 
-Write a web server that:
+Write a multithreaded web server that:
 - Listens on a specified port (5000/8000)
-- Has a single endpoint, that serves 1 HTML file, along with CSS and a JS script. 
+- Has a single endpoint, that serves 1 HTML file, along with CSS and a JS script.
+- Can handle upto 4 incoming connections at a time. 
+- Has a counter that counts the number of visitors that have visited the site.
+
+
+
+Explain in detail how Rust's borrow checker and type safety provides advantages for safety.
 
 Explain all the crates you have used, and write a detailed README with build/run instructions. 
 
