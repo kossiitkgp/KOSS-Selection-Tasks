@@ -10,6 +10,7 @@
 - [Go by Example](https://gobyexample.com), which is a great resource for learning Go with ample examples.
 - Go's [official documentation](https://golang.org/doc/), which is another great resource for learning the language.
 - If you are stuck at any point, just consult the creators of the language, Google $:)$. There are a lot of resources available online for learning Go, and you will find the answers to most of your questions on the internet.
+- https://go101.org
 
 
 ## What you need to do
