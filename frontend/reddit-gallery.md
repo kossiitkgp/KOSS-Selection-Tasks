@@ -10,8 +10,8 @@ He wants to build a frontend only app to view images from the subreddit. Make it
 * Implement a search functionality, which based upon the keyword or phrase given by the user, updates the UI to display only those images whose title or description contains that keyword.
 * Make an attractive and responsive UI to display the images in a grid or carousel format.
 
-### You need to document your approach in a `.md` file explaining your thought process and how / why you chose a certain tool while solving this problem.
-### A GitHub repository which contains your code along with a `.md` file containing your thought process would be the end product that we are expecting.
+You need to document your approach in a `.md` file explaining your thought process and how / why you chose a certain tool while solving this problem.
+A GitHub repository which contains your code along with a `.md` file containing your thought process would be the end product that we are expecting.
 
 
 ## Tech-Stack
