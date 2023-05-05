@@ -1,14 +1,17 @@
-Ayush likes to view images on reddit but doesn't like the UI much. He likes images from r/pics subreddit. 
 ## Story
+Ayush likes to view images on reddit but doesn't like the UI much. He likes images from r/pics subreddit. 
 
 ## Materials
 https://www.reddit.com/r/pics.json
 
 ## What you need to do
-He wants to build a frontend only app to view images from the subreddit. Make it for him.
+He wants to build a frontend only app to view images from the subreddit. Make it for him. You can think of features to include in your app, but it should at least have the following ones: 
+* Implement a filter functionality in the app that allows users to filter images by categories, such as animals, nature, and architecture.
+* Implement a search functionality, which based upon the keyword or phrase given by the user, updates the UI to display only those images whose title or description contains that keyword.
+* Make an attractive and responsive UI to display the images in a grid or carousel format.
 
-* You need to document your approach in a `.md` file explaining your thought process and how / why you choose a certain tool while solving this problem.
-* A GitHub repository which contains your code  along with a `.md` file containing your thought process would be the end product that we are expecting.
+### You need to document your approach in a `.md` file explaining your thought process and how / why you chose a certain tool while solving this problem.
+### A GitHub repository which contains your code along with a `.md` file containing your thought process would be the end product that we are expecting.
 
 
 ## Tech-Stack
