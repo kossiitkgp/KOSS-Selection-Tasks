@@ -5,7 +5,7 @@ Capture the Flag (CTF) is a type of cybersecurity competition that involves a se
 
 ## What you need to do:
 
-As part of this task, you will need to create a simple PowerPoint presentation that introduces the concept of Capture the Flag (CTF) competitions to a group of beginners. Your presentation should cover the following topics:
+As part of this task, you will need to create a simple presentation that introduces the concept of Capture the Flag (CTF) competitions to a group of beginners. Your presentation should cover the following topics:
 
 1. Introduction to cybersecurity and hacking
 2. Briefly explain the basics of cybersecurity and the concept of hacking
@@ -17,6 +17,7 @@ As part of this task, you will need to create a simple PowerPoint presentation t
 8. Describe some of the common tools and techniques that participants may use in CTF competitions
 9. Strategies for success in CTF competitions
 
+Please create a presentation, either using PPT or preferably a tool such as [RevealJS](https://revealjs.com/). The interviewee needs to keep in mind that the crowd he will be presenting to, will have mixed people of different knowledge levels, so it is advised that to keep the content balanced for all. Keep it short, to less than 20 slides or so, and you could include images, screenshots from commands run, and short snippets of code, to keep the audience interested.
 
 ## Relevant Material:
 
