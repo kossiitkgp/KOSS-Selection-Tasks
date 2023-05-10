@@ -1,9 +1,13 @@
+> **Warning**
+> This task has been deprecated and should not be assigned.
+> See https://github.com/kossiitkgp/KOSS-Selection-Tasks/issues/29
+
 # Object Oriented Programming (Features and comparative study)
 
 ## Background
 
 <div align="justify">
-There are several approaches to programming paradigms. But the two most popular and important ones are procedural programming and object-oriented programming. From a beginner’s point of view, procedural programming is easier to learn and more simple to use. But as your application grows and your codebase becomes larger, development and maintenance of your code becomes more difficult. This is where OOP comes to the rescue. OOP makes your code easier to debug and provides better flexibility and reusability. The ever-growing popularity of Object Oriented Programming and Object Oriented Languages stand to testify the benefits of the paradigm. 
+There are several approaches to programming paradigms. But the two most popular and important ones are procedural programming and object-oriented programming. From a beginner’s point of view, procedural programming is easier to learn and more simple to use. But as your application grows and your codebase becomes larger, development and maintenance of your code becomes more difficult. This is where OOP comes to the rescue. OOP makes your code easier to debug and provides better flexibility and reusability. The ever-growing popularity of Object Oriented Programming and Object Oriented Languages stand to testify the benefits of the paradigm.
 </div>
 
 ## What you need to do
@@ -12,7 +16,7 @@ There are several approaches to programming paradigms. But the two most popular 
 The interviewee needs to make a presentation (keep the presentation simple; a simple PowerPoint presentation is good enough). The interviewee needs to keep in mind that the crowd he will be presenting to, will have mixed people of different knowledge levels, so it is advised that to keep the content balanced for all, touch upon both basics and advanced topics in the domains below. Your presentation should mainly consist of the following parts.
 </div>
 
-* Give an introduction to paradigms of programming keeping in focus object oriented programming and its distinguishing features that make it very special. For example the following points can be elaborated on OOP by pointing out the What, Why and How's. 
+* Give an introduction to paradigms of programming keeping in focus object oriented programming and its distinguishing features that make it very special. For example the following points can be elaborated on OOP by pointing out the What, Why and How's.
 	* Comparison between structures and classes
     * A discussion on the four pillars of OOP: Encapsulation, Abstraction, Polymorphism and Inheritance.
     * Method and operator overloading

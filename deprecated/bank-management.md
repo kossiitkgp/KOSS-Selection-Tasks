@@ -1,3 +1,7 @@
+> **Warning**
+> This task has been deprecated and should not be assigned.
+> See https://github.com/kossiitkgp/KOSS-Selection-Tasks/issues/29
+
 # Bank Management
 
 ## Story
@@ -28,7 +32,7 @@ You have to make a bank management class which has different classes for differe
 
 * You have to create a command line interface **CLI**  which would accept the data from the user and accept the following option for displaying the meta-data for the above.
 * You need to document your approach in a `.md` file explaining your thought process and how / why you choose a certain tool while solving this problem.
-* A GitHub repository which contains your code along with a `.md` file containing your thought process would be the end product that we are expecting. 
+* A GitHub repository which contains your code along with a `.md` file containing your thought process would be the end product that we are expecting.
 
 ## Tech-Stack
 
@@ -36,7 +40,7 @@ You have to make a bank management class which has different classes for differe
 
 ## Learning from the task
 
-While you must have some experience with programming while doing this task, we know beforehand that this task would be difficult for people who don't have much experience with back-end. 
+While you must have some experience with programming while doing this task, we know beforehand that this task would be difficult for people who don't have much experience with back-end.
 So, you are encouraged to google the technical stuff that you have encountered out here, use technical blogs to understand and practically implement it.
 Note that, don't get lost in the theoretical sea, there are infinite topics in back-end which are impossible to know, so you should use the rule of thumb to judiciously use your time to maintain a balance of theoretical understanding and practical implementation.
 _We are more curious about your thinking ability and practical utility than the final result._
