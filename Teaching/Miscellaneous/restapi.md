@@ -14,7 +14,7 @@ So, this is where REST API comes into the picture. The REST API creates an objec
 
 ## What do you need to do:
 
-The interviewee needs to make a presentation (keep the presentation simple, a simple PowerPoint presentation is good enough). The interviewee needs to keep in mind that the crowd he will be presenting to, will have mixed people of different knowledge levels, so it is advised that to keep the content balanced for all, touch upon both basics and advanced topics in the domains below. Your presentation should mainly consist of the following parts:
+The student needs to make a presentation (keep the presentation simple, a simple PowerPoint presentation is good enough). The interviewee needs to keep in mind that the crowd he will be presenting to, will have mixed people of different knowledge levels, so it is advised that to keep the content balanced for all, touch upon both basics and advanced topics in the domains below. Your presentation should mainly consist of the following parts:
 
 - What is an API?
 - What are REST APIs?
