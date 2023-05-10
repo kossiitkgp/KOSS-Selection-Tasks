@@ -12,12 +12,13 @@ As part of this task, you will need to create a simple presentation that introdu
 3. Describe different types of cyber threats and their impact on organizations
 4. Overview of Capture the Flag (CTF) competitions
 5. Explain what CTF competitions are and how they work
-6. Describe the different types of challenges that participants may encounter in CTF competitions
-7. Common tools and techniques used in CTF competitions
-8. Describe some of the common tools and techniques that participants may use in CTF competitions
-9. Strategies for success in CTF competitions
+6. Briefly describe about different types of challenges that participants may encounter in CTF competitions
+7. Describe in detail about the Reverse Engineering type of challenges
+8. Common tools and techniques used in CTF competitions
+9. Describe some of the common tools and techniques that participants may use for solving Reverse Engineering challenges
+10. Try to solve a Reverse Engineering challenge from the internet using the techniques that you have learnt and describe the process
 
-Please create a presentation, either using PPT or preferably a tool such as [RevealJS](https://revealjs.com/). The interviewee needs to keep in mind that the crowd he will be presenting to, will have mixed people of different knowledge levels, so it is advised that to keep the content balanced for all. Keep it short, to less than 20 slides or so, and you could include images, screenshots from commands run, and short snippets of code, to keep the audience interested.
+Please create a presentation, either using PPT or preferably an Open Source tool such as [RevealJS](https://revealjs.com/). The interviewee needs to keep in mind that the crowd he will be presenting to, will have mixed people of different knowledge levels, so it is advised that to keep the content balanced for all. Keep it short, to less than 20 slides or so, and you could include images, screenshots from commands run, and short snippets of code, to keep the audience interested.
 
 ## Relevant Material:
 
