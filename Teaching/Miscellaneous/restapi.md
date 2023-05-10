@@ -18,7 +18,6 @@ The student needs to make a presentation (keep the presentation simple, a simple
 
 - What is an API?
 - What are REST APIs?
-- Instead of having a front end talk to a back end which talks to the database, why don’t you just simplify and remove the middle man (the server)?
 - REST API Methods
 - How to cons an API (can create a simple frontend or a cli that uses a public api available)
 - Creating a basic API (you can use Flask)
@@ -27,6 +26,7 @@ The student needs to make a presentation (keep the presentation simple, a simple
 
 ## Materials:
 
+- https://github.com/public-api-lists/public-api-lists
 - Google xD
 
 ## Tech Stack:
