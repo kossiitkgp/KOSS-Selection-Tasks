@@ -20,7 +20,7 @@ The student needs to make a presentation (keep the presentation simple, a simple
 - What are REST APIs?
 - Instead of having a front end talk to a back end which talks to the database, why don’t you just simplify and remove the middle man (the server)?
 - REST API Methods
-- How to consume an API (take an example)
+- How to cons an API (can create a simple frontend or a cli that uses a public api available)
 - Creating a basic API (you can use Flask)
 
 **Please remember to keep the presentation short and concise. Long presentation bores the audience and you will also get tired in presenting. It has also been observed that images, quotes, interactive programming sessions tend to keep the audience interested in the content. (Recommended: Keep he presentation with 20 slides). Interview should be also prepared for questions regarding the topics being presented by him/her.**
