@@ -31,7 +31,7 @@ The student needs to make a presentation (keep the presentation simple, a simple
 
 ## Tech Stack:
 
-Prior knowledge of basic python is required to do this task. However newbies having basic programming knowledge can also be alloted.
+However newbies having basic programming knowledge can also be alloted. 
 
 ## Learning from the Task:
 
