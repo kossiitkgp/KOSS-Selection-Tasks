@@ -20,18 +20,12 @@ As part of this task, you will need to create a simple presentation that introdu
 
 Please create a presentation, either using PPT or preferably an Open Source tool such as [RevealJS](https://revealjs.com/). The interviewee needs to keep in mind that the crowd he will be presenting to, will have mixed people of different knowledge levels, so it is advised that to keep the content balanced for all. Keep it short, to less than 20 slides or so, and you could include images, screenshots from commands run, and short snippets of code, to keep the audience interested.
 
-## Relevant Material:
+## Some resources:
 
-- [Introduction to Cybersecurity](https://www.coursera.org/learn/cybersecurity-basics)
-
+- [picoCTF](https://picoctf.org/)
 - [CTF Field Guide](https://trailofbits.github.io/ctf/)
-
 - [CTFtime](https://ctftime.org/)
-
-- [CTFlearn](https://ctflearn.com/)
-
 - [TryHackMe](https://tryhackme.com/)
-
 - [HackTheBox](https://www.hackthebox.eu/)
 
 ## Learning from the task:
