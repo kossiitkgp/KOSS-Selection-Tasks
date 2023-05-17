@@ -45,4 +45,4 @@ Libreoffice Impress, Reveal.js, Beamer (LaTex) etc.
 1. https://en.m.wikipedia.org/wiki/Garbage_collection_(computer_science)
 2. https://speice.io/2019/02/understanding-allocations-in-rust.html
 
-#### For any questions, please reach out to [Mukul Mehta](mailto:mukul.csiitkgp@gmail.com)
+#### For any questions, please reach out to [Y Karthikeya](mailto:yelisettikarthik0@gmail.com)
