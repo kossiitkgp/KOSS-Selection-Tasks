@@ -44,13 +44,13 @@ Additionally, you are required to create a presentation encompassing the followi
 
 ## Materials:
 
-[GCC compiler optimisation](https://gcc.gnu.org/onlinedocs/gcc/Optimize-Options.html)
-[Vectorisation](https://chryswoods.com/vector_c++/part1.html)
-[Cache misses in matmul](https://www.youtube.com/watch?v=5Xc_CzpgSFk)
-[More about cache misses](https://dev.to/frosnerd/hit-me-baby-one-more-time---what-are-cache-hits-and-why-should-you-care-4500)
-[Verify If you have CUDA compatible GPU](https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/index.html#verify-you-have-cuda-enabled-system)
-[CUDA programming guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
-[CUDA loop unrolling](https://www.nvidia.com/docs/IO/116711/sc11-unrolling-parallel-loops.pdf)
+- [GCC compiler optimisation](https://gcc.gnu.org/onlinedocs/gcc/Optimize-Options.html)
+- [Vectorisation](https://chryswoods.com/vector_c++/part1.html)
+- [Cache misses in matmul](https://www.youtube.com/watch?v=5Xc_CzpgSFk)
+- [More about cache misses](https://dev.to/frosnerd/hit-me-baby-one-more-time---what-are-cache-hits-and-why-should-you-care-4500)
+- [Verify If you have CUDA compatible GPU](https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/index.html#verify-you-have-cuda-enabled-system)
+- [CUDA programming guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html)
+- [CUDA loop unrolling](https://www.nvidia.com/docs/IO/116711/sc11-unrolling-parallel-loops.pdf)
 
 ## Learning from the Task
 
