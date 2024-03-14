@@ -2,36 +2,9 @@
 ## Background
 Matrix multiplication is a fundamental operation in numerous computational and mathematical tasks. This operation is fundamental in many areas, including graphics rendering, scientific simulations, machine learning, and more. Given the significance of matrix multiplication these various fields, failing to implement it with performance in mind can pose a severe computational bottleneck.
 
-A naïve implementation of this algorithm (shown below) exhibits a time complexity of O(n^3) for two n × n matrices. 
-``` python
-import sys, random
-from tqdm import tqdm
-from time import *
+A naïve implementation of this algorithm [linked here](https://gist.github.com/tejasexpress/cbb793628b05c28a6f531b6ebcb8713b) exhibits a time complexity of O(n^3) for two n × n matrices. 
 
-n = 4096
 
-A = [[random.random()
-      for row in range(n)]
-      for col in range(n)]
-
-B = [[random.random()
-      for row in range(n)]
-      for col in range(n)]
-
-C = [[0 for row in range(n)]
-     for col in range(n)] 
-
-print("calculating ... \n")
-
-start = time()
-for i in tqdm(range(n)):
-    for j in range(n):
-        for k in range(n):
-            C[i][j] += A[i][k] * B[k][j]
-end = time()
-
-print("%0.6f"%(end-start))
-```
 ## What do you need to do
 
 Your task is to optimize the above algorithm through any means possible. You can explore various avenues, including switching languages, utilizing compiler flags, parallelizing the code, employing alternative algorithms, any optimization specific to your PC's architecture, or any other method you deem fit to enhance performance. Use the time module to benchmark the optimization process. Try to delve deeper into the optimisations you've employed and understand how they work. You don't have to implement all the above mentioned optimisations by hand. Also don't stick just to the ideas and materials mentioned in this tasks, you can look around on the internet for more ideas. Just make sure you understand how and why everything works.
