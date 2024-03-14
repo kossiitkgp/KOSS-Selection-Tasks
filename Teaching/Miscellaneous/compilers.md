@@ -12,6 +12,7 @@ C, C++, go, rust, etc. are examples of compiled languages. The gnu compiler coll
 - Try to understand how these programs translate high-level, human-readable code into machine code, exploring the intricacies of the conversion process
 - Discuss the various challenges encountered during the development of compilers and interpreters, such as addressing platform independence through the use of intermediate representation and handling hardware specific optimisations across different architectures
 - Explore advanced optimisation techniques utilised by compiler engineers, such as dead code elimination, loop optimisation, and register allocation, to improve the efficiency and performance of generated machine code
+- Use a disassembler to compare the compiled assembly code to higher level code to show how a compiler optimises for allocating more memory in registers instead of the memory
 - Create a detailed presentation documenting the learning journey throughout the task, incorporating explanations along with relevant code snippets to illustrate practical applications and key concepts
 - Optionally you can write a simple compiler for an already existing language or design your own language :P
 
