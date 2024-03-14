@@ -2,9 +2,9 @@
 
 ## Background
 
-A compiler is a type of software tool that takes code written in a high-level programming language and converts it into binary code that a computer can execute. This conversion process happens in multiple stages, each of which is important for turning human-readable code into instructions that computers can understand. Knowing how a compiler works can help programmers write code that runs more efficiently.
+A compiler is a type of software tool that takes code written in a high-level programming language and converts it into binary code that a computer can execute. This conversion process happens in multiple stages, each of which is important for turning human-readable code into instructions that computers can understand. Knowing how a compiler works can help programmers write code that runs more efficiently. 
 
-C, C++, go, rust, etc. are examples of compiled languages. The gnu compiler collection (GCC) is used to compile C/C++ programmes.Python, javascript, perl are interpreted languages.
+C, C++, Go, Rust, etc. are examples of compiled languages. The gnu compiler collection (GCC) is used to compile C/C++ programmes. Python, javascript, perl are interpreted languages. 
 
 ## Task Description
 
@@ -19,7 +19,7 @@ C, C++, go, rust, etc. are examples of compiled languages. The gnu compiler coll
 
 ## Key Takeaways
 
-Upon completing this task, you will acquire a deep insight into the intricate process of compiler construction, significantly expanding your expertise in low-level development. This will particularly enrich your understanding of optimising code for enhanced performance and navigating challenges related to hardware independence.
+Upon completing this task, you will acquire a deep insight into the intricate process of compiler construction, significantly expanding your expertise in low-level development. This will particularly enrich your understanding of optimising code for enhanced performance and navigating challenges related to hardware independence. 
 
 ## Resources
 
