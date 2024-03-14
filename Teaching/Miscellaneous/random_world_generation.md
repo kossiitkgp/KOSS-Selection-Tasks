@@ -8,12 +8,12 @@ In the game development industry, the ability to generate a random world efficie
 
 
 - Research different ways in which world generation is achieved (e.g., Perlin noise, simplex noise, cellular automata, Voronoi diagrams).
-- Focus on understanding how the algorithm was developed. Shed light on why and where the algorithm is used and its disadvantages
+- Focus on understanding how the algorithm was developed. Shed light on why and where the algorithm is used and its disadvantages.
 - Create visual representations or diagrams that illustrate how each algorithm influences the generated worlds.
 - Emphasise the unique visual styles and characteristics brought about by each algorithm.
-- Some of these algorithms can be computationally expensive and slow to run. Research how people optimised these techniques to be viable for use in high performance applications
+- Some of these algorithms can be computationally expensive and slow to run. Research how people optimised these techniques to be viable for use in high performance applications.
 - Your task is to put together a presentation showcasing your work, including detailed documentation of how you learned and progressed throughout the project.
-- Optionally you can implement one or more of these world generation using a library/game engine of your choice (e.g. OpenGL, pygame, godot, unreal engine, etc.)
+- Optionally you can implement one or more of these world generation using a library/game engine of your choice (e.g. OpenGL, pygame, godot, unreal engine, etc.).
 
 ## Resources
 
