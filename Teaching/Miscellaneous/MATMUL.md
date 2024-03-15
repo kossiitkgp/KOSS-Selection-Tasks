@@ -2,7 +2,7 @@
 ## Background
 Matrix multiplication is a fundamental operation in numerous computational and mathematical tasks. This operation is fundamental in many areas, including graphics rendering, scientific simulations, machine learning, and more. Given the significance of matrix multiplication these various fields, failing to implement it with performance in mind can pose a severe computational bottleneck.
 
-A naïve implementation of this algorithm [linked here](https://gist.github.com/tejasexpress/cbb793628b05c28a6f531b6ebcb8713b) exhibits a time complexity of O(n^3) for two n × n matrices. 
+A [naïve implementation](https://linear.subwiki.org/wiki/Naive_matrix_multiplication#:~:text=to%20the%20matrices-,Definition,the%20product%20of%20the%20matrices.) of this algorithm exhibits a [time complexity](https://www.freecodecamp.org/news/big-o-notation-why-it-matters-and-why-it-doesnt-1674cfa8a23c/) of O(n^3) for two n × n matrices. 
 
 
 ## What do you need to do
