@@ -12,6 +12,7 @@ Git is a very powerful source control software and it is used in most open sourc
 
 ## What you need to do
 
+* You need to create a new [repository](https://github.com/new) in GitHub where you can learn and experiment about git. Please note that your repository must remain public at all times. 
 * You need to give a talk explaining newer git concepts like git bisect.
 * You need to prepare slides for your presentation.
 * The presentation should be about 10 minutes in length.
