@@ -40,10 +40,19 @@ https://codefresh.io/learn/github-actions/github-actions-tutorial-and-examples/
 * Configure a continuous integration (CI) system (e.g., GitHub Actions, Jenkins, Travis CI) to automate testing and code quality checks.
   * Integrate CI tools such as GitHub Actions into the project workflow.
   * Define CI pipelines to automate testing, code analysis, and deployment processes.
+    * Define trigger events
+    * Checkout Code
+    * Install Dependencies (e.g. Node.js - npm install)
+    * Code Analysis (Analyse the code syntax using the super linter or any other code specific linter)
+    * Use the Stale action to automate the process of discarding stale issues or Pull requests
+    * Use the labeler action and automate the process of labeling the pull requests
+    * Deployment (Optional)
   * You should write your own pipeline configuration
 * Test your CI/CD pipeline
-  * Implement a feature from start to deployment testing the pipeline with various errors during the process (Incorrect syntax, code styling using linters)
+  * Implement a feature from start to deployment testing the pipeline with various errors during the process (Incorrect syntax, code styling)
   * Push these changes to feature branches.
+  * Verify that the pipeline performs the defined actions accurately and efficiently.
+  * Review pipeline logs, test results, and code analysis reports for any issues or failures.
   * Ensure the pipeline handles various scenarios like feature releases and syntax errors appropriately.
   
 * Document your workflow process, including branching strategies, pull request guidelines, and CI configuration.
