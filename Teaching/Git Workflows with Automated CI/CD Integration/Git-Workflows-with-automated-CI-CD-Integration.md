@@ -18,12 +18,12 @@ The workflow is divided into jobs, and each job performs a set of steps. Each st
 
 ## Materials
 
-https://www.atlassian.com/git/tutorials/comparing-workflows
-https://www.redhat.com/sysadmin/git-hooks
-https://www.atlassian.com/git/tutorials/git-hooks
-https://docs.github.com/en/actions/using-workflows/about-workflows
-https://codefresh.io/learn/github-actions/github-actions-tutorial-and-examples/
-https://www.freecodecamp.org/news/github-super-linter/
+* https://www.atlassian.com/git/tutorials/comparing-workflows
+* https://www.redhat.com/sysadmin/git-hooks
+* https://www.atlassian.com/git/tutorials/git-hooks
+* https://docs.github.com/en/actions/using-workflows/about-workflows
+* https://codefresh.io/learn/github-actions/github-actions-tutorial-and-examples/
+* https://www.freecodecamp.org/news/github-super-linter/
 
 ## What you need to do
 
@@ -39,7 +39,7 @@ https://www.freecodecamp.org/news/github-super-linter/
   * Create feature branches for new developments and bug fixes.
   * Demonstrate the process of making changes, staging commits, and merging branches.
   * Highlight best practices for resolving merge conflicts and ensuring branch consistency.
-* Configure a continuous integration (CI) system (e.g., GitHub Actions, Jenkins, Travis CI) to automate testing and code quality checks.
+* Configure a continuous integration (CI) system to automate testing and code quality checks.
   * Integrate CI tools such as GitHub Actions into the project workflow.
   * Define CI pipelines to automate testing, code analysis, and deployment processes.
     * Define trigger events
@@ -68,7 +68,7 @@ https://www.freecodecamp.org/news/github-super-linter/
 
 ## Tech Stack
 
-Git, CI/CD tools (e.g., GitHub Actions, Jenkins).
+Git, CI/CD tools.
 
 ## Learning from the task
 
