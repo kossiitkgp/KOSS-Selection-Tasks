@@ -20,8 +20,10 @@ The workflow is divided into jobs, and each job performs a set of steps. Each st
 
 https://www.atlassian.com/git/tutorials/comparing-workflows
 https://www.redhat.com/sysadmin/git-hooks
+https://www.atlassian.com/git/tutorials/git-hooks
 https://docs.github.com/en/actions/using-workflows/about-workflows
 https://codefresh.io/learn/github-actions/github-actions-tutorial-and-examples/
+https://www.freecodecamp.org/news/github-super-linter/
 
 ## What you need to do
 
