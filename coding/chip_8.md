@@ -65,4 +65,16 @@ be no end to the modifications you can do. Implement as much as you are
 comfortable with and need for most games to run. We are more curious about your
 thinking ability and practical utility than the final result. So, don't worry
 if you are not able to complete the task, just try to do as much as you can and
-try to learn from the task.
+try to learn from the task. If you have other features you would like to
+implement that you were unable to add then feel free to add them to your
+presentation and discuss them!
+
+## Further Reading
+
+These resources are not strictly necessary for the task but can supplement your
+learning from the task. It is recommended to go through them at least once.
+
+- [How Computers Work (Chapter 2): Katherine Walden](https://kwaldenphd.github.io/code-in-context/02-computer-architecture/00-intro.html)
+- [Computer Systems' Architecture: Morris Mano](https://duckduckgo.com/?q=morris+mano+computer+systems+architecture+pdf&t=ffab&ia=web)
+- [Introduction to Computer Architecture: IIT Delhi](https://www.cse.iitd.ac.in/~srsarangi/archbook/chapters/intro.pdf)
+
