@@ -35,9 +35,13 @@ presentation should cover the following topics:
    for solving Reverse Engineering challenges
 1. Try out one Reverse Engineering and one Pwning challenge from the internet,
    and describe your solutions in detail. Document your CTF writeups in markdown
-   files (`.md`). You are encouraged to create a github repo for this. You can
-   choose the challenges, but try to choose interesting, or at least non-trivial
-   ones
+   files (`.md`). You are encouraged to create a github repo for this
+
+> [!NOTE] 
+> We know that this task involves learning about many concepts, so we do
+> not expect you to become masters in just a couple of days. We want to see
+> what you've explored, the effort you've put into this, and how you overcame
+> any hurdles.
 
 Please create a presentation, either using PPT or preferably an Open Source
 tool such as [RevealJS](https://revealjs.com/). The interviewee needs to keep
