@@ -1,6 +1,7 @@
 # Introduction to Capture the Flag (CTF) competitions
 
-## Background: Capture the Flag (CTF) is a type of cybersecurity competition
+## Background: 
+Capture the Flag (CTF) is a type of cybersecurity competition
 that involves a series of challenges designed to test the skills and knowledge
 of participants in various areas of cybersecurity. These competitions simulate
 real-world cyber attack and defense scenarios, providing participants with
@@ -26,13 +27,12 @@ presentation should cover the following topics:
 1. Common tools and techniques used in CTF competitions
 1. Describe in detail about the Reverse Engineering type of challenges. Include at least the following
     - What are Reverse Engineering challenges?
-    - What are the tools we used to solve such challenges?
+    - What are the tools used to solve such challenges?
     - (Optional) Discuss Python and Rust reverse engineering challenges and techniques as well
 1. Describe in detail about Pwning challenges. Include at least the following
     - What is pwning?
     - What are the common vulnerabilities exploited to pwn a system (binary exploitation)? 
-    - (Optional) Discuss shellcodes
-   for solving Reverse Engineering challenges
+    - (Optional) Discuss shellcodes for solving Reverse Engineering challenges
 1. Try out one Reverse Engineering and one Pwning challenge from the internet,
    and describe your solutions in detail. Document your CTF writeups in markdown
    files (`.md`). You are encouraged to create a github repo for this
