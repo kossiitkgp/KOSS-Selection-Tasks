@@ -24,57 +24,37 @@ END
 
 This example is from the classic language QBasic, which is a begineer-friendly language that uses a "top-down" approach, meaning the computer reads and executes your code line by line.  
 
-## Example: AST Breakdown
-
-Here's a simple Abstract Syntax Tree (AST) representation for the QBasic code above:
-
+### What is an AST?
+An Abstract Syntax Tree (AST) is a tree representation of the structure of source code. Each node in the tree represents a construct in the code (like a variable assignment, function call, or operator), and the edges represent the relationships between these constructs. The AST abstracts away syntactic details like parentheses and semicolons, focusing only on the meaningful structure of the program. This makes it easier for interpreters and compilers to analyze and execute the code.  
+Consider a statement like the following:  
+```py
+a = 20
+```  
+then one appropriate AST could be:  
+```py
+VariableDeclarationStatement (name = 'a', value = Integer (20))
 ```
-Program
-├── InputStatement(prompt="Enter the first number: ", variable="a")
-├── InputStatement(prompt="Enter the second number: ", variable="b")
-├── AssignmentStatement(variable="sum", expression=BinaryOperation(left="a", operator="+", right="b"))
-├── PrintStatement(values=["The sum of these numbers is: ", "sum"])
-└── EndStatement()
-```
-
-Each node represents a statement or expression in the code, capturing its structure and relationships.  
-In the execution phase, the interpreter can be tuned as follows.  
-```cpp
-if (root->type == InputStatement) {
-    std::string inp;
-    std::cout << root->prompt;
-    std::cin >> inp;
-    store (root->variable, inp);
+This can be represented as a C struct:
+```c
+struct VariableDeclarationStatement {
+    char *name;
+    value_type value;
 }
 ```
 
-## Example: Bytecode Generation (Optional)
+## Bytecode Generation (Optional)
 
-Here's a sample bytecode representation for the QBasic program above. Each instruction is a simple operation that the interpreter's virtual machine would execute:
+Bytecode is a numerical representation of AST.  
+ASTs are complex data structures and its computationally expensive working with them.  
+Bytecode simplifies logic by providing a linear execution order which:
+- is computationally inexpensive to catch.
+- is computationally inexpensive to execute.  
 
-```
-0: INPUT   "Enter the first number: " a
-1: INPUT   "Enter the second number: " b
-2: LOAD    a
-3: LOAD    b
-4: ADD
-5: STORE   sum
-6: PRINT   "The sum of these numbers is: "
-7: LOAD    sum
-8: PRINTLN
-9: END
-```
-
-**Explanation of Bytecode Instructions:**
-- `INPUT <prompt> <var>`: Display prompt and store user input in `<var>`.
-- `LOAD <var>`: Push the value of `<var>` onto the stack.
-- `ADD`: Pop two values from the stack, add them, and push the result.
-- `STORE <var>`: Pop value from the stack and store in `<var>`.
-- `PRINT <value>`: Print the value (string or variable) without newline.
-- `PRINTLN`: Print the value on top of the stack with a newline.
-- `END`: Terminate the program.
-
-This bytecode can be interpreted by a simple stack-based virtual machine.
+Instead of doing a big task, bytecode splits the task into smaller tasks that do not involve extensive use of data structures.  
+For learning more about bytecode, you can refer the following resources:
+- [Medium: The Life of a Bytecode Language by Better Programming](https://medium.com/better-programming/the-life-of-a-bytecode-language-fca666928e7b)
+- [Medium: What Do we Know about ByteCode by Vikas Taank](https://medium.com/@vikas.taank_40391/what-do-we-know-about-bytecode-283a00f69e97)
+- [Writing a compiler. Bytecode basics](https://www.youtube.com/watch?v=ZID0IJiOJdE)
 
 The task should implement either AST generation and execution of the AST, or Bytecode generation from AST and execution of said bytecode.  
 > [!TIP]
@@ -87,10 +67,16 @@ in mind that the crowd he will be presenting to, will have mixed people of
 different knowledge levels, so it is advised to keep the content balanced
 for all rather than becoming very technical.
 
-## Some Resources
-- https://ruslanspivak.com/lsbasi-part1/
-- https://github.com/codecrafters-io/build-your-own-x?tab=readme-ov-file#build-your-own-programming-language
-- https://www.craftinginterpreters.com/contents.html
+## Resources
+
+To help you build your interpreter, here are some excellent resources:
+
+- **[Crafting Interpreters](https://www.craftinginterpreters.com/contents.html)** - A comprehensive guide covering language design, lexing, parsing, and execution with practical examples.
+- **[Let's Build a Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/) by Ruslan Spivak** - A detailed series that walks through building an interpreter step-by-step from scratch.
+- **[Build Your Own X](https://github.com/codecrafters-io/build-your-own-x?tab=readme-ov-file#build-your-own-programming-language)** - A curated collection of projects including building programming languages with community implementations.
+
+These resources provide different approaches and perspectives, from theoretical foundations to practical implementations. We recommend starting with one that matches your learning style—whether you prefer narrative tutorials or hands-on project-based learning.
+
 
 ## Learning from the Task
 
